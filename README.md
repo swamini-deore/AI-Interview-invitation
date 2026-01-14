@@ -7,6 +7,10 @@ This solution eliminates repetitive tasks, reduces human errors, saves time, and
 
 
 <img width="1428" height="401" alt="Screenshot 2025-12-23 225846" src="https://github.com/user-attachments/assets/77231e7d-c52d-43c8-9bb2-ffaa506d985d" />
+
+
+watch link: https://drive.google.com/file/d/1EVZQmztNrpNz6CwXVsP4uMJ81chG7Nkm/view?usp=sharing
+
 This automation consists of multiple connected components that work together to fully automate the interview invitation process.
 
 1️⃣ Google Sheets Trigger
