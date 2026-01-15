@@ -12,8 +12,7 @@ watch link: https://drive.google.com/file/d/1EVZQmztNrpNz6CwXVsP4uMJ81chG7Nkm/vi
 
 ---
 
-
-   * Triggers when a new candida## 🚀 Project Overview
+## 🚀 Project Overview
 
 This automation eliminates manual HR tasks by:
 
