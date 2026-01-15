@@ -1,6 +1,7 @@
-Invitation is sent via Gmail
-n8n-automation-project
-🤖 AI Interview Invitation Automation (n8n)
+#n8n-automation-project
+
+#🤖 AI Interview Invitation Automation (n8n)
+
 An end-to-end interview scheduling and email automation system built using n8n, Google APIs, and OpenAI. This workflow automatically schedules interviews and sends AI-generated invitation emails when a candidate is added to Google Sheets.
 
 
